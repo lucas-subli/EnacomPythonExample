@@ -1,7 +1,7 @@
-from source import Vehicle
+from source import vehicle
 
 
-class Motorcycle(Vehicle):
+class Motorcycle(vehicle):
     """A motorcycle for sale."""
 
     base_sale_price = 4000

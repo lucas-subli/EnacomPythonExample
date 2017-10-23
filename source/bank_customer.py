@@ -1,14 +1,6 @@
 
 
 # An example of a class
-# Everything in ENGLISH, comments, variable names, etc.
-# Class names are Camel Case and must use the
-# Method names are lowercase
-# The class / methods should be commented with triple " as soon as they are declared
-# The default code style is the pycharm one
-# Docstrings documentation is available at http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html
-# To make pycharm accept it press ctrl + shift + a and search for python integrated tools
-# and finally change DocString format to google
 class BankCustomer(object):
     """
     A customer of ABC Bank with a checking account.

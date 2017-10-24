@@ -8,6 +8,7 @@ class TestBankCustomer(unittest.TestCase):
     """
     Tests Bank Customer class
     """
+
     def setUp(self):
         """
         Tests the SetUp of the class

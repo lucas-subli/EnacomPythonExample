@@ -32,6 +32,13 @@ What things you need to have to be able to run:
 * PyCharm IDE is ***highly recommended*** and will be approached in 
 the next section
 
+## Python 101
+
+We do recommend
+Learn Python awesome interactive tutorials
+
+https://www.learnpython.org/
+
 # IDE
 
 

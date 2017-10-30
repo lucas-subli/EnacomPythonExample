@@ -39,6 +39,26 @@ Learn Python awesome interactive tutorials
 
 https://www.learnpython.org/
 
+## Libs versioning
+
+All libs must be versioned with pip by using the command 
+
+```bash
+$ pip freezee > requirements.txt
+```
+
+on the root of the project folder.
+
+By using this setup libs may be installed using the command
+
+
+```bash
+$ pip install requirements.txt
+```
+
+Make sure that you are in the correct virtual environment when using
+this command
+
 # IDE
 
 

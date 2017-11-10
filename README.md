@@ -555,7 +555,7 @@ where catching them is almost always the wrong thing to do.
     
 * When catching operating system errors, prefer the 
     explicit exception hierarchy introduced in Python 3.3 over 
-    introspection of errno values.
+    introspection of ***errno*** values.
     
 * Additionally, for all try/except clauses, limit the try 
     clause to the absolute minimum amount of code necessary. 
